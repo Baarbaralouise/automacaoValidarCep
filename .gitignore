@@ -1,0 +1,6 @@
+node_modules/
+examples/**/cypress/videos
+examples/**/cypress/screenshots
+examples/**/cypress/downloads
+results.json
+.vscode/

@@ -1,0 +1,16 @@
+{
+  "name": "automacaovalidarcep",
+  "version": "1.0.0",
+  "description": "Automacao para validar CEP",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:interactive": "cypress open", 
+    "test:headless": "cypress run --headless"
+  },
+  "author": "Bárbara Louise",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
